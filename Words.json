@@ -1,0 +1,62 @@
+{
+  "help":{
+    "Type":"Verb",
+    "Barb":"to help",
+    "Derives":"help",
+    "Synonym":"none"
+  },
+  "helping":{
+    "Type":"Verb",
+    "Barb":"now to help",
+    "Derives":"help",
+    "Synonym":"none"
+  },
+  "helps":{
+    "Type":"Verb",
+    "Barb":"sometime to help",
+    "Derives":"help",
+    "Synonym":"none"
+  },
+  "helped":{
+    "Type":"Verb",
+    "Barb":"was to help",
+    "Derives":"help",
+    "Synonym":"none"
+  },
+  "story":{
+    "Type":"Noun",
+    "Barb":"story",
+    "Derives":"story",
+    "Synonym":"none"
+  },
+  "stories":{
+    "Type":"Noun",
+    "Barb":"stories",
+    "Derives":"story",
+    "Synonym":"none"
+  },
+  "good":{
+    "Type":"Adjective",
+    "Barb":"is good",
+    "Derives":"good",
+    "Synonym":"none"
+  },
+  "better":{
+    "Type":"Adjective",
+    "Barb":"is more good",
+    "Derives":"good",
+    "Synonym":"none"
+  },
+  "best":{
+    "Type":"Adjective",
+    "Barb":"is most good",
+    "Derives":"good",
+    "Synonyms":"none"
+  },
+  "nice":{
+    "Type":"Adjective",
+    "Barb":"is most good",
+    "Derives":"good",
+    "Synonym":"good"
+  }
+}
